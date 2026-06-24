@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./assets/atmospheric-title.svg" />
+  <img src="./atmospheric-title.svg" width="100%" />
 </p>
-
 
 
 
