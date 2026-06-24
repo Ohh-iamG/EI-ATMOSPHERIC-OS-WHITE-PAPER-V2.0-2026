@@ -1,18 +1,15 @@
-<p align="center">
-  <img src="./atmospheric-title.svg" width="100%" />
-</p>
-
-
-
-
+# <span style="color: #00CFFF;">ATMOSPHERIC OS™</span>
+<img width="1050" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/b0d6985a-ab8d-4231-9d97-2756e390e870" />
 ### Sovereign Environmental Audit System & Verification Engine
 
-<img width="1050" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/b0d6985a-ab8d-4231-9d97-2756e390e870" />
+
+
+
 
 **ATMOSPHERIC OS™** is a sovereign environmental audit system built for enforcement, not corporate reporting. It connects satellite telemetry, regulatory frameworks, and biophysical data to verify emissions and land‑use integrity in real time. The system automates anomaly detection, validates compliance through cryptographic audit trails, and aligns industrial activity with planetary boundaries. Atmospheric OS™ transforms environmental oversight into a living intelligence network — transparent, autonomous, and grounded in Country.
 
-> **Published:** June 2026  
-> **Compliance Alignment:** NGER Act 2007 | Safeguard Mechanism (Reformed) Rules 2015 | AASB S2 Climate Disclosures
+> Published:** June 2026  
+> Compliance Alignment:** NGER Act 2007 | Safeguard Mechanism (Reformed) Rules 2015 | AASB S2 Climate Disclosures
 
 ---
 
@@ -27,7 +24,7 @@ By fusing public-domain ground monitoring datasets with high-resolution column-a
 > ###  Zero-Footprint Data Model
 > Application infrastructure is hosted within sovereign Australian cloud (**Google Cloud, Sydney region**), while all case file data resides exclusively within the client's own managed environment (**Supabase, ap-southeast-2**). Earth-I Ltd retains zero client emissions data, zero facility profiles, and zero audit records.
 
----
+<img width="1050" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/b0d6985a-ab8d-4231-9d97-2756e390e870" />
 
 ##  1. Core Architectural Pillars
 
@@ -44,7 +41,7 @@ Legal and regulatory compliance documents must be immutable and reproducible. A 
 * **Probabilistic Demarcation:** Advanced AI analytical layers are strictly restricted to corroborative advisory roles (policy mapping, regulatory text synthesis, pattern identification). All AI-generated confidence scores are explicitly isolated from empirical primary audit evidence and are clearly labeled as probabilistic assessments, not primary findings.
 * **Cryptographic Integrity:** Every generated report carries a SHA-256 hash computed from the full report content concatenated with the case file configuration hash. This hash is appended to the Multi-Node Ledger, creating a tamper-evident chain of custody from data ingestion through to report publication.
 
----
+<img width="1050" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/b0d6985a-ab8d-4231-9d97-2756e390e870" />
 
 ##  2. Forensic Core Capabilities
 
@@ -53,8 +50,6 @@ Legal and regulatory compliance documents must be immutable and reproducible. A 
 | **DRIFT GUARD™** | Satellite vs. NGER | Divergence & Mathematical Gradient Tracking |
 | **RHYTHM ENGINE™** | Seasonal & Diurnal | Manipulation Window & Baseline Suppression Detection |
 | **RETURN METRICS™** | Offset & ACCU | Sequestration Curve Integrity & Verification |
-
----
 
 ### 2.1 Drift Guard™ — Temporal Divergence Analysis
 Drift Guard™ establishes a 10-year empirical baseline for any industrial facility coordinate on Earth. It continuously cross-references published corporate NGER filings against column-averaged dry-air mole fractions of methane ($CH_4$) and carbon dioxide ($CO_2$) captured by the **Copernicus Sentinel-5P TROPOMI** satellite constellation.
@@ -72,7 +67,7 @@ Atmospheric OS™ provides independent verification of declared carbon remediati
 * If observed atmospheric shifts fail to align with standard sequestration curves for the declared activity type, the platform flags the transaction as an unverified sink activity.
 * This closes the structural gap in current Australian offset markets where registry confirmation of ACCU surrender does not require independent atmospheric verification of the underlying sequestration.
 
----
+<img width="1050" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/b0d6985a-ab8d-4231-9d97-2756e390e870" />
 
 ##  3. Statutory Reporting Tiers
 
@@ -81,7 +76,7 @@ Every report compiled under authenticated `GOV_STRICT_MODE` generates byte-ident
 * **3.1 Tier 1 — Compliance Brief:** A high-level, maximum two-page executive summary designed for rapid regulatory review or board-level presentation. Presents overall compliance verdict, authenticity index, active critical findings count, current temporal drift metrics, and a structured finding summary including legislative references and penalty ranges applicable to each breach.
 * **3.2 Tier 2 — Technical Audit Package:** A comprehensive evidentiary document of 8–20 pages, engineered for formal submission to the Clean Energy Regulator, parliamentary committees, or legal proceedings.
 
----
+<img width="1050" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/b0d6985a-ab8d-4231-9d97-2756e390e870" />
 
 ##  4. Satellite Data Architecture
 
@@ -89,7 +84,7 @@ Every report compiled under authenticated `GOV_STRICT_MODE` generates byte-ident
 * **Digital Earth Australia (DEA):** Accessed via the DEA STAC API, providing analysis-ready Sentinel-2 optical imagery calibrated specifically for Australian conditions. For each reporting year, the system retrieves the closest cloud-free scene to **30 June** to precisely align with the end of the Australian financial year.
 * **NOAA Global Monitoring Laboratory (GML):** Provides the planetary atmospheric baseline via monthly mean $CO_2$ concentrations from the Cape Grim flask network (Southern Hemisphere reference) and the Mauna Loa continuous record (global reference).
 
----
+<img width="1050" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/b0d6985a-ab8d-4231-9d97-2756e390e870" />
 
 ##  5. Cultural Framework & The Walking Together Guardrail
 
@@ -99,16 +94,17 @@ Atmospheric OS™ operates in alignment with the **Native Title Act 1993 (Cth)**
 * **AIATSIS Contextual Baseline:** Utilizes a static, read-only layer derived from publicly available reference registers solely as an informational signal alerting auditors to required regional consultation pathways. It does not constitute a heritage clearance certificate.
 * **Native Title Intersection Detection:** Where coordinates intersect with a registered native title determination boundary, the platform surfaces the determination reference and custodian group. If FPIC documentation is absent and operational activity is flagged, the system generates a Cultural-Heritage finding routed directly to the **National Native Title Tribunal (NNTT)**.
 
----
+<img width="1050" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/b0d6985a-ab8d-4231-9d97-2756e390e870" />
 
 ##  6. System Calibration & Governance
 
 The platform uses a structured, year-based versioning standard to ensure regulatory calibration is always explicit:
-$$\text{v}\{\text{REGULATORY\_YEAR}\}.\{\text{MAJOR\_VERSION}\}.\{\text{PATCH}\}$$
+
+$$\text{v}\{\text{REGULATORY-YEAR}\}.\{\text{MAJOR-VERSION}\}.\{\text{PATCH}\}$$
 
 The current release, **v2026.1.0**, is fully calibrated to the active legislative thresholds, emissions factors, and disclosure requirements enacted for the **2026 Australian corporate reporting cycle**. Government clients are notified of version updates via `legal@earthi.ltd`.
 
----
+<img width="1050" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/b0d6985a-ab8d-4231-9d97-2756e390e870" />
 
 ##  7. The Three Procurement Pathways
 
@@ -133,14 +129,14 @@ The Atmospheric OS™ suite, panel integrations, and formal standing offer arran
 To review the comprehensive technical blueprint, verify sovereign cloud infrastructure parameters, establish a government trial environment, or discuss formal procurement pathways:
  **legal@earthi.ltd** **Earth-I Ltd** | ABN 15 698 228 692 | Western Australia
 
----
+<img width="1050" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/b0d6985a-ab8d-4231-9d97-2756e390e870" />
 
 ### Trademarks & Legal Notices
-| Ethics Gate™ | Drift Guard™ | 100-Domain Alignment Matrix™ | Regeneration OS™ | Rhythm Engine™ | Return Metrics™ |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| **EARTH—I™** | **LIFE OS™** | **INDUSTRIAL OS™** | **ATMOSPHERIC OS™** | *are trademarks of Earth‑I Ltd* | |
+| EARTH—I™ | Ethics Gate™ | Drift Guard™ | 100-Domain Alignment Matrix™ | Regeneration OS™ | Rhythm Engine™ | Return Metrics™ |
 
-1. **Proprietary Notice & Trademarks:** All rights reserved. Atmospheric OS™, LIFE OS™, INDUSTRIAL OS™, Ethics Gate™, Drift Guard™, 100-Domain Alignment Matrix™, Rhythm Engine™, and Return Metrics™ are proprietary trademarks of Earth-I Ltd. Unauthorized use, reproduction, or distribution is strictly prohibited.
+| BIOPHYSICAL OS™ | LIFE OS™ | INDUSTRIAL OS™ | ATMOSPHERIC OS™ | *are trademarks of Earth‑I Ltd* | 
+
+1. **Proprietary Notice & Trademarks:** All rights reserved. ATMOSPHERIC OS™, LIFE OS™, BIOPHYSICAL OS™, INDUSTRIAL OS™, Ethics Gate™, Drift Guard™, 100-Domain Alignment Matrix™, Rhythm Engine™, and Return Metrics™ are proprietary trademarks of Earth-I Ltd. Unauthorized use, reproduction, or distribution is strictly prohibited.
 2. **Regulatory & Compliance Disclaimer:** While engineered to align with NGER Act thresholds, the Safeguard Mechanism, and AASB S2 climate disclosure requirements, utilization of this technical documentation or the software framework does not constitute formal legal, financial, or statutory environmental auditing advice. 
 3. **Open-Source vs. Proprietary Licensing:** Publication of this white paper or repository structure on GitHub does not grant a public license to replicate, compile, or commercially exploit the underlying software stack, the Forensic Audit Engine, or the Sovereign Audit Platform architectures.
 
