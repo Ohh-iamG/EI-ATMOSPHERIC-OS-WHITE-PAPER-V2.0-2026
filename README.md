@@ -1,5 +1,6 @@
 # <span style="color: #00CFFF;">ATMOSPHERIC OS™</span>
 <img width="1050" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/b0d6985a-ab8d-4231-9d97-2756e390e870" />
+
 ### Sovereign Environmental Audit System & Verification Engine
 
 
@@ -8,11 +9,10 @@
 
 **ATMOSPHERIC OS™** is a sovereign environmental audit system built for enforcement, not corporate reporting. It connects satellite telemetry, regulatory frameworks, and biophysical data to verify emissions and land‑use integrity in real time. The system automates anomaly detection, validates compliance through cryptographic audit trails, and aligns industrial activity with planetary boundaries. Atmospheric OS™ transforms environmental oversight into a living intelligence network — transparent, autonomous, and grounded in Country.
 
-> Published:** June 2026  
-> Compliance Alignment:** NGER Act 2007 | Safeguard Mechanism (Reformed) Rules 2015 | AASB S2 Climate Disclosures
+> **Published:** June 2026  
+> **Compliance Alignment:** NGER Act 2007 | Safeguard Mechanism (Reformed) Rules 2015 | AASB S2 Climate Disclosures
 
 ---
-
 ##  Executive Summary
 
 Atmospheric OS™ is a forensic greenhouse gas verification platform purpose-built for regulators, statutory auditors, and corporate compliance officers operating under Australia's mandatory climate disclosure framework.
