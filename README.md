@@ -1,4 +1,5 @@
-# <span style="color: #00CFFF;">ATMOSPHERIC OS™</span>
+# <span style="color: #00CFFF;">ATMOSPHERIC OS™</span>    <img width="79.4" height="112.3" alt="blue" src="https://github.com/user-attachments/assets/91f04a73-68c4-4698-a7be-a901c0d8d49d" />
+
 <img width="1050" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/b0d6985a-ab8d-4231-9d97-2756e390e870" />
 
 ### Sovereign Environmental Audit System & Verification Engine
